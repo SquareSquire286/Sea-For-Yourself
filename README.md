@@ -7,6 +7,13 @@ A VR-based installation piece and digital audio workstation called *Sea For Your
 
 IMPORTANT: Download **Sauer-Morin-Assignment8** if you want to view the Unity project. If you only want to play through the experience, then you only need to download the **.exe** file, the **data** folder, and the **MonoBleedingEdge** folder.
 
+---
+
+# Team Members & Contributions
+
+**Noe Morin**: Conceptualization, audio, frontend development
+**Jacob Sauer**: VR environment design, backend development, documentation
+
 # Details
 Inspired by the concepts of soundscapes, installations, and improvisation, we chose to build a three-dimensional listening environment in virtual reality (VR) with various in-home appliances, and manufacture an audio piece which amalgamates such appliances' sounds.
 
