@@ -1,4 +1,4 @@
-# Sauer-Morin-Assignment8 (*Sea For Yourself*)
+# Sea For Yourself: A Virtual Reality-Based Digital Audio Workstation Prototype
 Our final project, a VR-based installation piece and digital audio workstation called *Sea For Yourself*, for ENSE 479 / CTCH 201 at the University of Regina.
 
 Demonstration of the overall experience: https://drive.google.com/file/d/1TzXwT9EC4ipE8qOkMZxBiNbHLEe5L9Fw/view?usp=sharing
